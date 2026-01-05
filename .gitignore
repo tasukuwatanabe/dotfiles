@@ -5,6 +5,9 @@
 ## zsh ##
 !/.zshrc
 
+## Homebrew ##
+!.Brewfile
+
 ## global ##
 !/README.md
 !.gitignore
