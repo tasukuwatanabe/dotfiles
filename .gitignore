@@ -1,0 +1,13 @@
+# all ignore #
+
+/*
+/.**
+
+# not ignore #
+
+## zsh ##
+!/.zshrc
+
+## global ##
+!/README.md
+!.gitignore
