@@ -16,6 +16,7 @@ brew "yq"
 
 cask "copilot-cli"
 cask "gcloud-cli"
+cask "raycast"
 
 vscode "aaron-bond.better-comments"
 vscode "biomejs.biome"
