@@ -1,0 +1,27 @@
+[alias]
+	a = add
+	cm = commit
+	cmm = commit -m
+	ps = push
+	pso = push origin
+	psom = push origin main
+	plo = pull origin
+	plom = pull origin main
+	psuom = push -u origin main
+	psfo = push -f origin
+	psoh = push origin HEAD
+	psfoh = push -f origin HEAD
+	f = fetch
+	co = checkout
+	cob = checkout -b
+	chm = checkout main
+	ss = status
+	sh = stash
+	shu = stash -u
+	shp = stash pop
+	b = branch
+	bd = branch -D
+	bc = branch --contains
+	l = log
+	d = diff
+	rsh = reset --soft HEAD^

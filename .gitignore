@@ -8,6 +8,9 @@
 ## Homebrew ##
 !.Brewfile
 
+## Git ##
+!.gitconfig
+
 ## global ##
 !/README.md
 !.gitignore
