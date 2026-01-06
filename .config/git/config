@@ -1,3 +1,5 @@
+[include]
+	path = ~/.config/git/config.local
 [alias]
 	a = add
 	cm = commit
@@ -15,7 +17,7 @@
 	co = checkout
 	cob = checkout -b
 	chm = checkout main
-	ss = status
+	st = status
 	sh = stash
 	shu = stash -u
 	shp = stash pop

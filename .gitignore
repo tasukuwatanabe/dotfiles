@@ -8,8 +8,8 @@
 ## Homebrew ##
 !.Brewfile
 
-## Git ##
-!.gitconfig
+## Config ##
+!.config
 
 ## global ##
 !/README.md
