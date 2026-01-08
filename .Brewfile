@@ -14,6 +14,12 @@ brew "ni"
 brew "tilt"
 brew "yq"
 
+cask "figma"
+cask "slack"
+cask "meetingbar"
+cask "zoom"
+cask "slack"
+cask "google-chrome"
 cask "copilot-cli"
 cask "gcloud-cli"
 cask "raycast"
@@ -37,3 +43,7 @@ vscode "styled-components.vscode-styled-components"
 vscode "vitest.explorer"
 vscode "xabikos.javascriptsnippets"
 vscode "yoavbls.pretty-ts-errors"
+
+mas "RunCat", id: 1429033973
+mas "Skitch", id: 425955336
+mas "Slack", id: 803453959
