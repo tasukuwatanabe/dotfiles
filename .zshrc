@@ -46,9 +46,7 @@ alias la="ls -a"
 alias ll='ls -la'
 
 # Copilot CLI
-alias cop='copilot'
-alias copcon='copilot --continue'
-alias copres='copilot --resume'
+alias cop="copilot --allow-tool 'write'"
 
 ######################
 ### Local Settings ###
